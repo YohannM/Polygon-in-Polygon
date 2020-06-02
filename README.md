@@ -1,6 +1,4 @@
-# Le projet d'algo 2020
-
-Bienvenue dans le projet d'algo 2020.
+# Polygon in Polygon
 
 ![Illustration](art.png)
 
